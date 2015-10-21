@@ -1,0 +1,88 @@
+#header {
+    background-color: white;
+    color: black;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    text-align: center;
+}
+#headerTwo {
+    background-color: white;
+    color: black;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    text-align: center;
+}
+#main {
+    color: black;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    width: 900px;
+    text-align: center;
+}
+#row1{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    width: 100px;
+    float: left;
+    text-align: center;
+    height: 700px;
+}
+#row2{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    width: 100px;
+    float: left;
+    text-align: center;
+    height: 700px;
+}
+#row3{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    width: 100px;
+    float: left;
+    text-align: center;
+    height: 700px;
+}
+#row4{
+    margin-left: auto;
+    width: 100px;
+    float: left;
+    text-align: center;
+    height: 700px;
+}
+#footer{
+    margin-left: auto;
+    margin-right: auto;
+    clear: both;
+    background: white;
+    color: black;
+    width: 800px;
+    text-align: center;
+}
+#words1{
+    width: 400px;
+    height: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+#words2{
+    width: 400px;
+    height: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+#words3{
+    width: 400px;
+    height: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
